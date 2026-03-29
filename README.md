@@ -17,4 +17,4 @@ If you have seen me present at any of the sessions, here is the content you migh
 
 - [Gen AI Workshop - YCCE 2025](https://github.com/kotewar/Generative-AI/blob/main/Generative%20AI%20workshop.pdf)
 
-- [Unified-AI-Agent-Architecture - Understanding MCP & A2A](https://github.com/kotewar/Unified-AI-Agent-Architecture/blob/main/Techfusion%20-%20Understanding%20MCP%20%26%20A2A.pdf)
+- [Unified-AI-Agent-Architecture - Understanding MCP & A2A - Techfusion 2026](https://github.com/kotewar/Unified-AI-Agent-Architecture/blob/main/Techfusion%20-%20Understanding%20MCP%20%26%20A2A.pdf)
