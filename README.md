@@ -21,4 +21,4 @@ If you have seen me present at any of the sessions, here is the content you migh
 
 - [GitHub Copilot Days Nagpur - April 2026](https://github.com/kotewar/GitHub-Days-Nagpur)
 
-- [Agentic AI Design Patterns - April 2026](https://github.com/kotewar/Agentic-AI-Design-Patterns/tree/main)
+- [Agentic AI Design Patterns - WTM Nagpur - April 2026](https://github.com/kotewar/Agentic-AI-Design-Patterns/tree/main)
